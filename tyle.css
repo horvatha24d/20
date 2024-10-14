@@ -1,14 +1,16 @@
-::content{
-    width: 600;
-    border: 10px;
+#content{
+    width: 600px;
+    border: 10px solid;
+    border-color: rgb(165, 108, 42);
     margin: auto;
     padding: 35px;
-    background-color:palegreen;
+    background-color:rgb(48, 238, 0);
     border-radius: 30px;
+
 }
 
 img{
-    width: 1000px;
+    width: 100%;
 }
 
 body{
